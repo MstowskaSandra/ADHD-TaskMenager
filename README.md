@@ -50,7 +50,7 @@ Junior frontend developer with a passion for playful user interfaces and product
 
 I’m a self-driven learner, passionate about front-end development. Even though I’m new to commercial work, this project shows I’ve got the skills and mindset to create great websites. I’m ready to grow and take on challenges as a junior front-end developer.
 
-![ADHD Task Menager demo](./assets/animationADHDTaskMenager.gif)
+![ADHD Task Menager demo](./assets/AnimationADHDTaskMenager.gif)
 
 ## 📄 License
 
