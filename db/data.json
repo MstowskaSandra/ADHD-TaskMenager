@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "name": "Zjeść jajecznicę",
+      "time": 2,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": true,
+      "id": 2
+    },
+    {
+      "name": "Nauka angielskiego ",
+      "time": 9,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": true,
+      "id": 3
+    },
+    {
+      "name": "Druga kawusia",
+      "time": 28,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": false,
+      "id": 4
+    },
+    {
+      "name": "Teoria z programowania",
+      "time": 6,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": false,
+      "id": 5
+    },
+    {
+      "name": "Piszemy kod",
+      "time": 1,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": false,
+      "id": 6
+    },
+    {
+      "name": "Odkurzanie",
+      "time": 777,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": true,
+      "id": 7
+    },
+    {
+      "name": "Obiad",
+      "time": 0,
+      "isRunning": false,
+      "isDone": false,
+      "isRemoved": false,
+      "id": 8
+    },
+    {
+      "name": "Pisać kod- React.js",
+      "time": 0,
+      "isRunning": false,
+      "isDone": false,
+      "isRemoved": false,
+      "id": 9
+    },
+    {
+      "name": "Stylowanie- CSS",
+      "time": 0,
+      "isRunning": false,
+      "isDone": false,
+      "isRemoved": false,
+      "id": 10
+    }
+  ]
+}

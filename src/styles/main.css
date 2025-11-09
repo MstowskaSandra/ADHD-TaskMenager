@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #A8E6CF;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+}
+
+.container_wrapper {
+  background-color: #F9C6D3; 
+  padding: 0.75rem;
+  border: 3px solid #F7D67C; 
+  width: 25rem;
+  margin: 1.25rem auto;
+  padding: 1rem;
+  image-rendering: pixelated;
+  box-shadow: 0 0 0 4px #82CFFD;
+  border-radius: 8px;
+}
+
+h1 {
+    color: #82CFFD;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 0 #A8E6CF;
+    image-rendering: pixelated;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.input__text {
+    width: 100%;
+    padding: 0.25rem;
+    margin-bottom: 0.5rem;
+    border: 2px solid #F7D67C;
+    background-color: #FFFFFF;
+    font-family: inherit;
+    font-size: 1rem;
+    outline-offset: 0;
+    image-rendering: pixelated;
+    border-radius: 4px;
+}
+
+.input__submit {
+    background-color: #82CFFD;
+    border: 3px solid #F7D67C;
+    color: white;
+    cursor: pointer;
+    padding: 0.5rem 0.75rem;
+    font-family: inherit;
+    font-size: 1rem;
+    border-radius: 4px;
+}
+
+.input__submit:hover {
+    background-color: #A8E6CF;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    border-radius: 4px;
+}
+
+li {
+    background-color: #FFFFFF;
+    border: 2px solid #F7D67C;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+    image-rendering: pixelated;
+    border-radius: 4px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+section header {
+    font-weight: bold;
+    color: #A8E6CF;
+    margin-bottom: 0.25rem;
+}
+
+section footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.25rem;
+}
+
+section footer button {
+    background-color: #F9C6D3;
+    border: 2px solid #82CFFD;
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+    font-family: inherit;
+    image-rendering: pixelated;
+    border-radius: 4px;
+}
+
+section footer button:hover {
+  background-color: #A8E6CF; 
+  border-color: #F9C6D3;
+}
+
+section footer button:disabled {
+    background-color: #ddd;
+    border-color: #bbb;
+    cursor: default;
+    color: #888;
+}
+
