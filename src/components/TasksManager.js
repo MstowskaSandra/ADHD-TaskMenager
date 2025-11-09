@@ -126,7 +126,7 @@ class TasksManager extends React.Component {
                             name="task" 
                             value={task} 
                             onChange={ this.inputChange } 
-                            placeholder='Dodaj nowe zadanie'
+                            placeholder='Add new task'
                         />
                         <input type='submit' className='input__submit' />
                     </form>

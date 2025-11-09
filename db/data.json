@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "Zjeść jajecznicę",
+      "name": "Eat breakfast",
       "time": 2,
       "isRunning": false,
       "isDone": true,
@@ -9,7 +9,7 @@
       "id": 2
     },
     {
-      "name": "Nauka angielskiego ",
+      "name": "English ",
       "time": 9,
       "isRunning": false,
       "isDone": true,
@@ -17,31 +17,31 @@
       "id": 3
     },
     {
-      "name": "Druga kawusia",
-      "time": 28,
+      "name": "Second Coffe",
+      "time": 32,
       "isRunning": false,
       "isDone": true,
-      "isRemoved": false,
+      "isRemoved": true,
       "id": 4
     },
     {
-      "name": "Teoria z programowania",
-      "time": 6,
+      "name": "Theory of code",
+      "time": 9,
       "isRunning": false,
       "isDone": true,
       "isRemoved": false,
       "id": 5
     },
     {
-      "name": "Piszemy kod",
-      "time": 1,
+      "name": "JavaScript 60min",
+      "time": 20,
       "isRunning": false,
       "isDone": true,
       "isRemoved": false,
       "id": 6
     },
     {
-      "name": "Odkurzanie",
+      "name": "Cleaning- 45min",
       "time": 777,
       "isRunning": false,
       "isDone": true,
@@ -49,7 +49,7 @@
       "id": 7
     },
     {
-      "name": "Obiad",
+      "name": "Lunch",
       "time": 0,
       "isRunning": false,
       "isDone": false,
@@ -57,7 +57,7 @@
       "id": 8
     },
     {
-      "name": "Pisać kod- React.js",
+      "name": "React.js- 60min",
       "time": 0,
       "isRunning": false,
       "isDone": false,
@@ -65,12 +65,20 @@
       "id": 9
     },
     {
-      "name": "Stylowanie- CSS",
+      "name": "Style- CSS",
       "time": 0,
       "isRunning": false,
       "isDone": false,
       "isRemoved": false,
       "id": 10
+    },
+    {
+      "name": "Code",
+      "time": 2,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": true,
+      "id": 11
     }
   ]
 }
