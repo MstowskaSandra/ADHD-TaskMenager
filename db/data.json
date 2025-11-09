@@ -26,7 +26,7 @@
     },
     {
       "name": "Theory of code",
-      "time": 9,
+      "time": 15,
       "isRunning": false,
       "isDone": true,
       "isRemoved": false,
@@ -34,7 +34,7 @@
     },
     {
       "name": "JavaScript 60min",
-      "time": 20,
+      "time": 75,
       "isRunning": false,
       "isDone": true,
       "isRemoved": false,
@@ -66,7 +66,7 @@
     },
     {
       "name": "Style- CSS",
-      "time": 0,
+      "time": 2,
       "isRunning": false,
       "isDone": false,
       "isRemoved": false,
@@ -79,6 +79,22 @@
       "isDone": true,
       "isRemoved": true,
       "id": 11
+    },
+    {
+      "name": "Code",
+      "time": 0,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": true,
+      "id": 12
+    },
+    {
+      "name": "Code",
+      "time": 5,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": true,
+      "id": 13
     }
   ]
 }

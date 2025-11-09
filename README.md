@@ -1,5 +1,5 @@
 >
-![Start App View](assets/ADHDTaskMenager-screenshot.png)
+![Start App View](assets/ADHDTaskMenagerView.png)
 ## About the project
 
 Created as a personal tool for tracking tasks with a timer — inspired by ADHD productivity techniques. Tasks can be started, stopped, completed, and removed, with every operation synced to a local JSON server (simulating REST API).
