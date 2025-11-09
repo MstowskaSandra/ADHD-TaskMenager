@@ -126,9 +126,9 @@ class TasksManager extends React.Component {
                             name="task" 
                             value={task} 
                             onChange={ this.inputChange } 
-                            placeholder='Add new task'
+                            placeholder='New task...'
                         />
-                        <input type='submit' className='input__submit' />
+                        <input type='submit' className='input__submit' value="Add task" />
                     </form>
                     <ul>
                         {tasks.filter(t => !t.isRemoved).map((t) => (
@@ -147,7 +147,7 @@ class TasksManager extends React.Component {
                                             onClick={() => this.overTask(t.id)}
                                             disabled={t.isRunning}
                                         >
-                                            Zakończ
+                                            Done
                                         </button>
                                     </footer>
                                 </section>
